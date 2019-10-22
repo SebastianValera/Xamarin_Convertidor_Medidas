@@ -6,8 +6,8 @@ La aplicación ofrece en una sola pantalla la habilidad de poder convertir entre
 
 ## Visual y Uso
 Con una sencilla interfaz, la aplicación funciona colocando en el campo de texto el valor el cual desea convertir y en su respectivo combo, el tipo de medida que es ese valor. Después, en el combo colocado en la sección "A:" se indica el tipo de medida a convertir el valor colocado anteriormente, dando como resultado el valor convertido en el campo de texto gris.
-  
-![](https://raw.githubusercontent.com/SebastianValera/Xamarin_Convertidor_Medidas/master/Screenshots/Applicacion.png)
+
+<img src="https://raw.githubusercontent.com/SebastianValera/Xamarin_Convertidor_Medidas/master/Screenshots/Applicacion.png" width="300">
 
 ## Planes a Futuro
 Se tiene contemplado extender el catálogo de medidas a convertir, expandiendo el uso cotidiano de este.
